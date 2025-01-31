@@ -1,3 +1,4 @@
+setuptools
 # Core Machine Learning Libraries
 numpy==1.23.5
 pandas==1.5.3
@@ -18,3 +19,4 @@ gh==2.45.0
 # General Utilities
 python-dotenv==1.0.0  # For environment variables
 requests==2.31.0  # For API calls
+
